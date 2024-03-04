@@ -1,0 +1,35 @@
+button{
+    border-radius: 4px;
+    padding: .5rem 1rem;
+    color: #ffffff;
+    border: 1px solid transparent;
+}
+
+.size-small {
+font-size: 12px;
+}
+.size-medium {
+font-size: 16px;
+}
+.size-large {
+font-size: 20px;
+}
+
+
+.color-white {
+background-color: #ffffff;
+color: #212121;
+}
+.color-black {
+background-color: #212121;
+}
+.color-danger {
+background-color: #dc3545;
+}
+.color-transparent {
+background-color: transparent;
+border-color: #ffffff;
+}
+.color-primary {
+background-color: var(--qwik-dark-purple);
+}
